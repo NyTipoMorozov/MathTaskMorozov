@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTaskMorozov", "MathTaskMorozov\MathTaskMorozov.csproj", "{630A4B3B-CE4B-4838-ABA7-A5CE9598DE2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTaskTest", "MathTaskTest\MathTaskTest.csproj", "{B5B27F9D-33D0-415A-ACEA-CCE377DB4FCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{630A4B3B-CE4B-4838-ABA7-A5CE9598DE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630A4B3B-CE4B-4838-ABA7-A5CE9598DE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630A4B3B-CE4B-4838-ABA7-A5CE9598DE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630A4B3B-CE4B-4838-ABA7-A5CE9598DE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B27F9D-33D0-415A-ACEA-CCE377DB4FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B27F9D-33D0-415A-ACEA-CCE377DB4FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B27F9D-33D0-415A-ACEA-CCE377DB4FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B27F9D-33D0-415A-ACEA-CCE377DB4FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {592406F0-4F65-4F57-81A2-B2A5AAD24ED4}
+	EndGlobalSection
+EndGlobal
